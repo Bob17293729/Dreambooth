@@ -1,5 +1,10 @@
 # Dreambooth Project
-In this project, we implement [Dreambooth](https://arxiv.org/abs/2208.12242), which is a powerful training methodology that can retain the distinctive features of a particular
-subject. By finetuning on only several images of a subject with a unique identifier, model can generate novel images of the subject, maintaining their key characteristics across different scenes and settings. More details can be found in our report! <br>
-## Some of our results:
-![Image](https://github.com/Bob17293729/Dreambooth/blob/main/dreambooth_md.png)
+
+In this project, we implement [Dreambooth](https://arxiv.org/abs/2208.12242), a powerful training methodology that retains the distinctive features of a particular subject. By fine-tuning on just a few images of a subject with a unique identifier, the model can generate novel images while maintaining key characteristics across different scenes and settings. 
+
+For more details, check out our report! 
+
+## Some of Our Results
+
+![Dreambooth Results](https://github.com/Bob17293729/Dreambooth/blob/main/dreambooth_md.png)
+
