@@ -9,4 +9,4 @@ Our finetuned model(of our cute Muse cat!) can be found on [huggingface](https:/
 ## Some of Our Results
 
 ![Dreambooth Results](https://github.com/Bob17293729/Dreambooth/blob/main/dreambooth_md.png)
-![Dreambooth Results1](result_recontextualization.png)
+![Dreambooth Results1](https://github.com/Bob17293729/Dreambooth/blob/main/result_recontextualization.png)
